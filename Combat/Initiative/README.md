@@ -22,3 +22,8 @@ Player 2 attacks (Rolled: 10)
 
 Player 1 initiative: 9
 Player 2 initiative: 10
+
+Player 1 casts the spell (Rolled: 6)
+
+Player 1 initiative: 6
+Player 2 initiative: 1
