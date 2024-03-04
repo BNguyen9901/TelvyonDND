@@ -1,5 +1,7 @@
 # Weapon Properties
 
+-Very Light: Easy to wield and can be dual-wielded. Provides additional 1d4 per dex modifier to attack rolls.
+
 -Light: Easy to wield and can be dual-wielded. Provides additional 1d4 per 2 dex modifier to attack rolls.
 
 -Heavy: Harder to wield and require the user to have 13 str for two-handed and 15 str for one-handed to use efficiently. Otherwise, has disadvantage on attack rolls. Provide a maximum of 2 for dex modifier to attack rolls.
