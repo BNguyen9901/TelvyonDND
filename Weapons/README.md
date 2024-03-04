@@ -6,6 +6,8 @@
 
 -Range: A weapon with this attribute can be use at distance. Has two ranges: normal range and long range. If the target is further than normal range, attack rolls have disadvantages. Targets outside of long range cannot be Attacks using this weapon. If attacking close to an enemy, trigger opportunity of any enemies within melee range.
 
+-Far Reach: Share same feature to Reach. Add 5 ft to your melee range. However, any attack rolls made at close-melee range are at disadvantage.
+
 -Reach: If an enemy with a non-reach weapon approaches you, you can use a reaction to make an opportunity attack beforehand.
 
 -Short: When approaching an enemy, trigger enemy opportunity attack.
