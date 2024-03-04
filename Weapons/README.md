@@ -1,17 +1,15 @@
 # Weapon Properties
 
--Light
+-Light: Easy to wield and can be dual-wielded. Provides a x2 modifier for dex modifier to attack rolls.
 
--Heavy
+-Heavy: Harder to wield and require the user to have 13 str for two-handed and 15 str for one-handed to use efficiently. Otherwise, has disadvantage on attack rolls. Provide a maximum of 2 for dex modifier to attack rolls.
 
--Range
+-Range: A weapon with this attribute can be use at distance. Has two ranges: normal range and long range. If the target is further than normal range, attack rolls have disadvantages. Targets outside of long range cannot be Attacks using this weapon. If attacking an enemy at melee range, trigger opportunity of any enemies within perimeter.
 
--Reach
+-Reach: If an enemy with a non-reach weapon approaches you, you can use a reaction to make an opportunity attack beforehand.
 
--Short
+-Short: When approaching an enemy, trigger enemy opportunity attack.
 
--Thrown
+-Thrown: Is throwable and deals the same damage as if used properly. Range attributes applie.
 
--Two-handed 
-
--Versatile
+-Two-handed: Weapons with this attribute are optimized for two-handed grip. Any singl-Light: Easy to wield and can be dual-wielded. Provides a x2 modifier for dex modifier to attack rolls.
