@@ -12,4 +12,6 @@
 
 -Thrown
 
+-Two-handed 
+
 -Versatile
