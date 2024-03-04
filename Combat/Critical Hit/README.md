@@ -2,4 +2,3 @@ A Critical Hit occurs when a martial attack roll exceeds the target's EC by 10 (
 
 *Note: 
 Spells and cantrips cannot Crit. 
-Daggers have a different way to calculate crit damage.
