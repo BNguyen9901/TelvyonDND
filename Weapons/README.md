@@ -12,4 +12,4 @@
 
 -Thrown: Is throwable and deals the same damage as if used properly. Range attributes applie.
 
--Two-handed: Weapons with this attribute are optimized for two-handed grip. Any singl-Light: Easy to wield and can be dual-wielded. Provides a x2 modifier for dex modifier to attack rolls.
+-Two-handed: Weapons with this attribute are optimized for two-handed grip. Any single-handed attack rolls made require a grip save roll (grip save disadvantage if the weapon also has the heavy property).
