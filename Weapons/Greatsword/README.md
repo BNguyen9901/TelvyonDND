@@ -2,6 +2,6 @@ Damage: 2d6
 
 Type: Slashing/Piercing
 
-Weight: 3lbs
+Weight: 6lbs
 
 Properties: Heavy, Two-handed 
