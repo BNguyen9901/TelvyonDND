@@ -1,7 +1,7 @@
-Damage: 1d8
+Damage: 1d6
 
 Type: Slashing
 
 Weight: 2lbs
 
-Properties: Light, Thrown (20/60)
+Properties: Light, Short, Thrown (20/60)
