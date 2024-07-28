@@ -6,7 +6,7 @@
 
 -Heavy: Harder to wield and require the user to have 13 str for two-handed and 15 str for one-handed to use efficiently. Otherwise, has disadvantage on attack rolls. Provide a maximum of 2 for dex modifier to attack rolls.
 
--Range: A weapon with this attribute can be use at distance. Has two ranges: normal range and long range. If the target is further than normal range, attack rolls have disadvantages. Targets outside of long range cannot be Attacks using this weapon. If attacking close to an enemy, trigger opportunity of any enemies within melee range if possible.
+-Range: A weapon with this attribute can be use at distance. Has two ranges: normal range and long range. If the target is further than normal range, attack rolls have disadvantages. Targets outside of long range cannot be Attacks using this weapon. If attacking close to an enemy, trigger opportunity attack of any enemies within melee range if possible.
 
 -Far Reach: Share same feature to Reach. Add 5 ft to your melee range. However, any attack rolls made at close-melee range are at disadvantage.
 
