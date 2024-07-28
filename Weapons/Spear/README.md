@@ -4,4 +4,4 @@ Type: Piercing/Bludgeoning
 
 Weight: 4lbs
 
-Properties: Reach, Two-handed, Thrown (20/60)
+Properties: Far-Reach (piercing), Reach (bludgeoning), Two-handed, Thrown (20/60)
