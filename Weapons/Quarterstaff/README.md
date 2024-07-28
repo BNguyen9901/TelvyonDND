@@ -4,4 +4,4 @@ Type: Bludgeoning
 
 Weight: 4lbs
 
-Properties: Far-Reach, Reach, Two-handed
+Properties: Variant (Far-Reach/Reach), Two-handed
