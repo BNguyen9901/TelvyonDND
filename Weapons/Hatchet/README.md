@@ -4,4 +4,4 @@ Type: Slashing
 
 Weight: 2lbs
 
-Properties: Light, Thrown
+Properties: Light, Thrown (20/60)
