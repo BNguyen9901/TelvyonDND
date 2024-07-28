@@ -4,4 +4,4 @@ Type: Slashing/Piercing
 
 Weight: 6lbs
 
-Properties: Heavy, Reach, Two-handed 
+Properties: Heavy, Reach (piercing), Two-handed 
