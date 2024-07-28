@@ -17,3 +17,5 @@
 -Thrown: Is throwable and deals the same damage as if used properly. Range property applie.
 
 -Two-handed: Weapons with this attribute are optimized for two-handed grip. Any single-handed attack rolls made require a grip save roll (grip save disadvantage if the weapon also has the heavy property).
+
+-Flailing: Attack rolls made require a dex save roll. If failed, roll an attack roll on the wielder.
