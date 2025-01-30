@@ -43,5 +43,7 @@ Archer
 Close Quarters Shooter
 Sharpshooter
 Interception
+Momentum Fighting
+Opportunity Fighting
 Unique Features:
 
