@@ -30,6 +30,18 @@ Level Progression:
 20. Ability Score
 
 Versatile Features:
-
+Shielder
+Protection
+Resilience
+Dueling
+Defense
+Great-Weapon Fighting
+Two-Handed Fighting
+Versatile Fighting
+Blind Fighting
+Archer
+Close Quarters Shooter
+Sharpshooter
+Interception
 Unique Features:
 
