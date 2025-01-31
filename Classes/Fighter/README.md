@@ -7,7 +7,7 @@ Proficiencies:
 - Weapons: 4 Weapons of Choice
 - Skills: 2 skills, (Str-based or Dex-based)
 
-Level Progression:
+<h2>Level Progression:</h2>
 1. Subclass Feature, Fighting Style, Weapon Training, Second Wind
 2. Talent Feat
 3. Subclass Feature, Quick Attack
@@ -29,11 +29,10 @@ Level Progression:
 19. Second Wind 5, Action Surge 3, Indomitable
 20. Ability Score
 
-Versatile Features:
-Fighting Style:
+<h2>Versatile Features:</h2>
+<h3>Fighting Style:</h3>
 Fighters get to select a fighting style at level 1 and level 12:
-
-Shielder: 
+<h4>Shielder:</h4> 
 * +2 to AC when using a shield
 * Shield bash deals an additional 1d4 + Str modifiers
 * Can use a reaction to intercept a projectile once per round.  
