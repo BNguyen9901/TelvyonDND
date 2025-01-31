@@ -8,6 +8,7 @@ Proficiencies:
 - Skills: 2 skills, (Str-based or Dex-based)
 
 <h2>Level Progression:</h2>
+
 1. Subclass Feature, Fighting Style, Weapon Training, Second Wind
 2. Talent Feat
 3. Subclass Feature, Quick Attack
