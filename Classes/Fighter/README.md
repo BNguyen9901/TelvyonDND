@@ -1,8 +1,9 @@
-Class Type: Martial
-Starting Hit Points: 15 + Constitution modifiers
-Starting Tenacity: 8 + Constitution modifiers
+<h1>Fighter</h1>
+<h3>Class Type: Martial</h3>
+<h3>Starting Hit Points: 15 + Constitution modifiers</h3>
+<h3>Starting Tenacity: 8 + Constitution modifiers</h3>
 
-Proficiencies:
+<h2>Proficiencies:
 - Armor: Light Armor, Medium Armor
 - Weapons: 4 Weapons of Choice
 - Skills: 2 skills, (Str-based or Dex-based)
