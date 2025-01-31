@@ -32,6 +32,7 @@ Level Progression:
 Versatile Features:
 Fighting Style:
 Fighters get to select a fighting style at level 1 and level 12:
+
 Shielder: 
 * +2 to AC when using a shield
 * Shield bash deals an additional 1d4 + Str modifiers
