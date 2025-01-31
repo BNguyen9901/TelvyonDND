@@ -3,7 +3,8 @@
 <h3>Starting Hit Points: 15 + Constitution modifiers</h3>
 <h3>Starting Tenacity: 8 + Constitution modifiers</h3>
 
-<h2>Proficiencies:
+<h2>Proficiencies:</h2>
+  
 - Armor: Light Armor, Medium Armor
 - Weapons: 4 Weapons of Choice
 - Skills: 2 skills, (Str-based or Dex-based)
