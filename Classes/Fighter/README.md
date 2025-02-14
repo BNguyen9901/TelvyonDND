@@ -40,8 +40,8 @@ Fighters get to select a fighting style at level 1 and level 12:
 * Shield bash deals an additional 1d4 + Str modifiers
 * Can use a reaction to intercept a projectile once per round.  
 
-Protection:
-* Can use a reaction to impose disadvantage once per round on attacks against allies within 5 feet for one turn.
+<h4>Protection:</h4>
+* Can use a reaction to impose a disadvantage once per round on attacks against allies within 5 feet for one turn.
 * Can use a reaction to mitigate half the damage to the player or an ally once per round. 
 
 Resilience:
