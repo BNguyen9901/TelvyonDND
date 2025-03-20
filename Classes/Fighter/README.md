@@ -51,16 +51,16 @@ Fighters get to select a fighting style at level 1 and level 12:
 <ul>
 <li>Gain temporary HP equal to class proficiency when taking damage for the first once per round.</li>
 <li>Reduce duration of negative status effects by 1 round.</li>
-<li>Add Constitution modifiers to saving throwsagainst physical effects.</li>
+<li>Add Constitution modifiers to saving throws against physical effects.</li>
 </ul>
 <h4>Defense:</h4>
 <ul>
 <li>Gain +1 AC and +1 EC when wearing armor.</li>
 <li>Reduce armor movement penalties by half.</li>
-<li>Gain advantage on recovery from being khnocked prone.</li>
+<li>Gain advantage on recovery from being knocked prone.</li>
 </ul>
 <h4>Dueling</h4>
-<span>When wielding a one-hended weapon with empty offhand:</span>
+<span>When wielding a one-handed weapon with empty offhand:</span>
 <ul>
 <li>Gain +2 weapon damage.</li>
 <li>Reduce one-handed weapon cooldowns by 1.</li>
@@ -74,7 +74,7 @@ Fighters get to select a fighting style at level 1 and level 12:
 </ul>
 <h4>Dual Wielding Fighting:</h4>
 <ul>
-<li>Allow bonus offhand attack after mainhand attack with halved cooldown.</li>
+<li>Allow bonus offhand attack after main-hand attack with halved cooldown.</li>
 <li>Equal damage modifier for offhand attacks.</li>
 <li>Can use a reaction to instantly parry an attack if one hand is not in action.</li>
 </ul>
@@ -84,6 +84,33 @@ Fighters get to select a fighting style at level 1 and level 12:
 <li>Can wield a two-handed weapon that isn't heavy, light, or very light as a one-handed weapon with +1 EC.</li>
 <li>Weapons that fit in the same weapon family are not considered improvised weapons.</li>
 </ul>
-
-
--   Blind Fighting Archer Close Quarters Shooter Sharpshooter Interception Momentum Fighting Opportunity Fighting Unique Features:
+<h4>Blind Fighting:</h4>
+<ul>
+<li>Negate Blind disadvantage within 10 feet.</li>
+<li>Negate Surprised against stealth and sneak attacks.</li>
+<li>Can react against attacks that are out-of-sight.</li>
+</ul>
+<h4>Archer:</h4>
+<ul>
+<li>+2 to ranged attack rolls.</li>
+<li>Reduce ranged weapon cooldowns by 1.</li>
+<li>No disadvantage on long-range attack-rolls.</li>
+</ul>
+<h4>Close Quarters Shooter:</h4>
+<ul>
+<li>No disadvantage on ranged attacks in melee.</li>
+<li>+2 EC against opportunity attacks while wielding a ranged weapon.</li>
+<li>Melee attacks with ranged weapons negate the improvised attribute.</li>
+</ul>
+<h4>Sharpshooter:</h4>
+<ul>
+<li>Ignore enemy cover bonuses.</li>
+<li>Reduce movement penalties while aiming.</li>
+<li>You can reduce the attack roll by 5 to halve the enemy's AC.</li>
+</ul>
+<h4>Marksman:</h4>
+<ul>
+<li>Steady aim provides an additional 1d4 per bonus Dex-modifier on attack rolls instead.</li>
+<li>Quick aim provides 1 on attack rolls per bonus Dex-modifier.</li>
+<li>Gain an additional 10 feet of long-range.</li>
+</ul>
