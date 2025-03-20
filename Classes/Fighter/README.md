@@ -70,7 +70,7 @@ Fighters get to select a fighting style at level 1 and level 12:
 <ul>
 <li>Reroll 1s and 2s on two-handed weapon damage dice.</li>
 <li>Cleave through to additional targets on critical hits using a two-handed weapon.</li>
-<li>Remove Dex modifiers on attack roles for two-handed heavy weapons.</li>
+<li>Remove Dex modifiers cap on attack roles for two-handed heavy weapons.</li>
 </ul>
 <h4>Dual Wielding Fighting:</h4>
 <ul>
