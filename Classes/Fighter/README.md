@@ -60,10 +60,10 @@ Fighters get to select a fighting style at level 1 and level 12:
 <li>Gain advantage on recovery from being knocked prone.</li>
 </ul>
 <h4>Dueling</h4>
-<span>When wielding a one-handed weapon with empty offhand:</span>
+<span>When wielding a one-handed weapon with no weapons or items on the offhand:</span>
 <ul>
 <li>Gain +2 weapon damage.</li>
-<li>Reduce one-handed weapon cooldowns by 1.</li>
+<li>Reduce weapon attack cooldowns by 1.</li>
 <li>Gain 1 EC.</li>
 </ul>
 <h4>Great-Weapon Fighting:</h4>
