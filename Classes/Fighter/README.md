@@ -80,8 +80,8 @@ Fighters get to select a fighting style at level 1 and level 12:
 </ul>
 <h4>Versatile Fighting:</h4>
 <ul>
-<li>Can wield a one-handed weapon that isn't heavy, light, or very light as a two-handed weapon with +2 weapon damage.</li>
-<li>Can wield a two-handed weapon that isn't heavy, light, or very light as a one-handed weapon with +1 EC.</li>
+<li>Can wield a one-handed weapon that isn't light, or very light as a two-handed weapon with +2 weapon damage.</li>
+<li>Can wield a two-handed weapon that isn't heavy as a one-handed weapon with +1 EC.</li>
 <li>Weapons that fit in the same weapon family are not considered improvised weapons.</li>
 </ul>
 <h4>Blind Fighting:</h4>
